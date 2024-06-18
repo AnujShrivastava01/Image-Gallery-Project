@@ -1,1 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import './colors.css';
+body,h1,h2,h3,h4,h5,h6,p{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Press Start 2P',cursive;
+
+}
+body{
+    background-color: var(--light-brown) ;
+}
+nav{
+    background-color: var(--light);
+}
