@@ -15,4 +15,6 @@
 ## font
 - https://fonts.google.com/specimen/Press+Start+2P?query=press
 
-This is created  by @Agent01
+## Hosted URL 
+https://galleriie.netlify.app
+
